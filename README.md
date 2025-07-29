@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Your+Name👋;Full-stack+Developer+💻;Welcome+to+my+profile!+😄;Always+learning+new+things+🚀&font=Fira%20Code&center=true&width=500&height=45&color=6C63FF&vCenter=true&size=22">
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+This+is+Aryush+Tripathi👋;Full-stack+Developer+💻;Welcome+to+my+profile!+😄;Always+learning+new+things+🚀&font=Fira%20Code&center=true&width=500&height=45&color=008B8B&vCenter=true&size=23)
+
+
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=xebecDrockss&style=for-the-badge&color=29bf12" alt="Profile views" /> 
@@ -19,7 +20,7 @@
 - 👯 Open to collaborating on **Open Source Projects**
 - 💬 Ask me about **Software Development**
 - 📫 Reach me: **aryushtripathi8@gmai.com**
-- ⚡ Fun fact: **We all are going to Die**
+- ⚡ Fun fact: **We all are going to Die.**
 
 <br clear="right"/>
 
@@ -28,7 +29,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,java,docker,aws,mongodb,postgres,git,github,&perline=8">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,java,aws,mongodb,mysql,git,github,&perline=8">
 </div>
 
 ---
@@ -36,9 +37,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xebecDrockss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xebecDrockss&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true"/>
+
+
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xebecDrockss&layout=compact&langs_count=8&theme=radical"/>
 </div>
