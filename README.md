@@ -19,7 +19,7 @@
 - 🌱 Learning **SpringBoot , node js **
 - 👯 Open to collaborating on **Open Source Projects**
 - 💬 Ask me about **Software Development**
-- 📫 Reach me: **aryushtripathi8@gmai.com**
+- 📫 Reach me: **aryushtripathi8@gmail.com**
 - ⚡ Fun fact: **We all are going to Die.**
 
 <br clear="right"/>
